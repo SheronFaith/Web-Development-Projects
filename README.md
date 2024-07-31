@@ -1,2 +1,2 @@
 # Web-Development-Projects
-Training 
+I'm diving into full stack development, rocking skills in HTML, CSS, JavaScript, and dabbling in C, C++, Java, and SQL.
